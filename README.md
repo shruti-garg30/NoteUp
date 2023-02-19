@@ -1,7 +1,7 @@
 # NoteUp
 Hack NYU 2023 submission from Team NoteUp.
 
-Running the code:
+## Running the code:
 - Login to https://platform.openai.com/playground
 - Generate your own secret API key through the profile tab
 - Create a .env file and add your secret key as the 'API_KEY'
