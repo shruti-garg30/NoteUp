@@ -1,4 +1,5 @@
 # NoteUp
+Summarizing your notes for you, so you can focus on the important part - studying.
 Hack NYU 2023 submission from Team NoteUp.
 
 ## Running the code:
